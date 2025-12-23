@@ -6,7 +6,6 @@
 
 ## Hi <img src="/icons/wave-hand.png" width="50" height="50" alt="Wave"> my name is Denys
 
----
 
 I'm a passionate software developer with experience in **full-stack development**, **backend APIs**, and **web application architecture**. I enjoy building efficient, scalable, and user-friendly solutions while constantly exploring new technologies.
 
