@@ -1,15 +1,6 @@
-<center>
-<img src="/icons/python.png" width="50" height="50" alt="Python">
-<img src="/icons/js.png" width="50" height="50" alt="Java Script">
-<img src="/icons/typescript.png" width="50" height="50" alt="Type Script">
-<img src="/icons/document.png" width="50" height="50" alt="Vue">
-<img src="/icons/nuxt.svg" width="50" height="50" alt="Nuxt">
-<img src="/icons/django.svg" width="50" height="50" alt="Django">
-<img src="/icons/docker.png" width="50" height="50" alt="Docker">
-<img src="/icons/nest.png" width="50" height="50" alt="Nest">
-<img src="/icons/github.png" width="50" height="50" alt="Github">
-<img src="/icons/postgresql.svg" width="50" height="50" alt="Postgresql">
-</center>
+<div style="text-align: center;">
+<img src="/icons/python.png" width="50" height="50" alt="Python"><img src="/icons/js.png" width="50" height="50" alt="Java Script"><img src="/icons/typescript.png" width="50" height="50" alt="Type Script"><img src="/icons/document.png" width="50" height="50" alt="Vue"><img src="/icons/nuxt.svg" width="50" height="50" alt="Nuxt"><img src="/icons/django.svg" width="50" height="50" alt="Django"><img src="/icons/docker.png" width="50" height="50" alt="Docker"><img src="/icons/nest.png" width="50" height="50" alt="Nest"><img src="/icons/github.png" width="50" height="50" alt="Github"><img src="/icons/postgresql.svg" width="50" height="50" alt="Postgresql">
+</div>
 
 
 
