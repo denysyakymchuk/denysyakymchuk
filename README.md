@@ -17,6 +17,7 @@ I'm a passionate software developer with experience in **full-stack development*
 - **Authentication & APIs:** dj-rest-auth, djoser, OAuth (Google Login)
 - **Microservices & Communication:** NestJS Microservices, TCP communication
 - **DevOps & Tools:** Docker products, Git, GitHub, Swagger
+- **Big Data:** Pandas & Numpy
 
 
 ## 🌱 I’m currently learning
